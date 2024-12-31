@@ -60,7 +60,7 @@ endmodule
 ![WhatsApp Image 2024-12-17 at 14 18 56_ab0793fb](https://github.com/user-attachments/assets/857e3193-a846-4ca1-bdfb-37e0cf32a6e8)
 
 **TIMING DIGRAMS FOR FLIP FLOPS**
-![WhatsApp Image 2024-12-17 at 14 19 07_f3d59129](https://github.com/user-attachments/assets/bef8f04d-5314-4dd5-b544-ff42e9f3513b)
+![WhatsApp Image 2024-12-31 at 14 00 15_01c2982f](https://github.com/user-attachments/assets/ae4214cd-a1fb-4270-9651-aa5ca74eb20f)
 
 **RESULTS**
 Implementation of JK flipflop using verilog and validating their functionality using their functional tables is executed and the output is verified successfully.
